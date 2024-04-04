@@ -1,6 +1,6 @@
 #변수를 이용해서 원의 면적, 둘레 구하기
 
-radius = 4.0
+radius = 6.0
 Pi = 3.14
 
 print('원의 반지름', radius)

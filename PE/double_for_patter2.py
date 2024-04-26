@@ -13,3 +13,13 @@ for i in range(5) :     #[0, 1, 2, 3, 4]
         print(end = ' ')
     print(st)
     st += '**'
+    
+#교재에서 제시한 풀이
+
+n = 5
+for i in range(n) :
+    for j in range(n - (i + 1)) :
+        print(' ', end = '')
+    for j in range(2 * i + 1) :
+        print('+', end = '')
+    print()

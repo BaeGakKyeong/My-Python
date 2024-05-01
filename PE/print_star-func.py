@@ -1,9 +1,11 @@
 #별표 출력을 위한 함수 정의와 호출
 
-def print_star() :
+def print_star3() :
+    print('***************************')
+    print('***************************')
     print('***************************')
     
-print_star()
-print_star()
-print_star()
-print_star()
+    
+print_star3()
+print_star3()
+print_star3()

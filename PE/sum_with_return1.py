@@ -9,3 +9,9 @@ print('10과 20의 합 :', n1)
 
 n2 = get_sum(100, 200)
 print('100과 200의 합 :', n2)
+
+def get_sum2(c, d):
+    return c + d
+
+result = get_sum2(1000, 2000)
+print('1000과 2000의 합 :', result)
